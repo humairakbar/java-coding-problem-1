@@ -8,3 +8,6 @@ console.log(specifitDate);
 specifitDate.setMonth(10);
 console.log(specifitDate);
 console.log(specifitDate.toLocaleString('en-GB'));
+
+// unix epoc
+
